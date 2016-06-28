@@ -1,9 +1,8 @@
-#header {
-    background-color:pink;
-    color:white;
+#header {  
     text-align:center;
     padding:5px;
-    background-color:yellow;
+    background-color:orange;
+    color:white;
 }
 #nav {
     line-height:30px;
